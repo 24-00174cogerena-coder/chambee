@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Bloodhounds 
+title: "Bloodhounds" 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Their Biggest Fight is Not in The Ring
+tagline: "Their Biggest Fight is Not in The Ring"
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "Bloodhounds is a high-octane 2023 Netflix action-crime K-drama about two young boxers who team up with a benevolent moneylender to take down a ruthless loan shark."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Jeong Chan
+author: "Jeong Chan"
 
 ##########
 # COLLECTION SETTINGS
